@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SerchRV
+- 👋 Hi, I’m @SergioGomezConde
 - 💼 I’m currently working as an software analyst at Minsait
 
 <!---
